@@ -2,7 +2,7 @@
 //  main.cpp
 //  Üben
 //
-//  Created by Ricco Chahid on 15.02.25.
+//  Created by  on 15.02.25.
 //
 
 #include <iostream>
